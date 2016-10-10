@@ -5,5 +5,6 @@ int main()
 	printf("hello");
 	printf("i am dev");
 	printf("i am dev 2");
+	printf("i am dev 3 准备推送");
 	return 0;
 }
