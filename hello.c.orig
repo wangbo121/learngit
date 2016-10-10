@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main()
+{
+<<<<<<< HEAD
+=======
+	printf("hello world");
+>>>>>>> dev
+	return 0;
+}
